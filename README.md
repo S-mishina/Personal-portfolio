@@ -13,6 +13,7 @@
 ・帝京大学ロボット教育シンポジウム<br>
 ・帝京大学プログラミングコンテスト（奨励賞）<br>
 2019 学部2年（研究インターン）<br>
+<br>
 ・つくばチャレンジ2019参加<br>
 ・1st International AIWolf competition（プロトコル部門予選参加）<br>
 予選31位name:Sole<br>
@@ -20,6 +21,7 @@
 ・JSAI2019参加<br>
 https://ci.nii.ac.jp/naid/130007658591<br>
 2020 学部3年（研究インターン）<br>
+<br>
 ・2st International AIWolf competition（プロトコル部門予選参加）<br>
 ・研究室サーバ移行<br>
 2st International AIWolf competition（プロトコル部門予選参加(関連))<br>
