@@ -22,7 +22,7 @@ https://ci.nii.ac.jp/naid/130007658591<br>
 2020 学部3年（研究インターン）<br>
 ・2st International AIWolf competition（プロトコル部門予選参加）<br>
 ・研究室サーバ移行<br>
-2st International AIWolf competition（プロトコル部門予選参加(関連)):
+2st International AIWolf competition（プロトコル部門予選参加(関連))<br>
 https://ci.nii.ac.jp/naid/130007856826
 ## 資料
 ・研究インターンのポスター<br>
