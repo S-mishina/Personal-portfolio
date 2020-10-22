@@ -42,7 +42,7 @@ https://github.com/S-mishina/Personal-portfolio/blob/main/%E3%83%97%E3%83%AD%E3%
 ## 活動からの派生
 ロボットの内部状況の可視化プログラム<br>
 2018- 学部1年 プログラムコンテスト提出（挨拶カメラ）<br>
-2019- 学部2年 帝京大学理工学部情報電子工学科授業　プログラミング演習2 人個人の推定<br>
+2019- 学部2年 帝京大学理工学部情報電子工学科授業　プログラミング演習2 <br>人個人の推定<br>
 https://github.com/S-mishina/Personal-estimation<br>
 2020- 学部3年　Yoloを使った可視化プログラム<br>
 https://github.com/S-mishina/Stop-sign-detection<br>
