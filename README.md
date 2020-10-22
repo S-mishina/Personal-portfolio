@@ -42,4 +42,20 @@ https://github.com/S-mishina/Personal-portfolio/blob/main/%E3%83%97%E3%83%AD%E3%
 https://github.com/S-mishina/Personal-estimation<br>
 2020- 学部3年　Yoloを使った可視化プログラム<br>
 https://github.com/S-mishina/Stop-sign-detection<br>
-
+## 記事の執筆（主なもの）
+Qiitaページ:https://qiita.com/asmg07<br>
+・停まれ標識検知　可視化部分の開発part5 物体を検知した時に検知したものを検知したものを表示する<br>
+https://qiita.com/asmg07/items/d76625881db30d5b79ea<br>
+・物体が検知されたときに音声で知らせるプログラム(複数)<br>
+https://qiita.com/asmg07/items/a45c663e44c6d45f6dc6<br>
+・物体が検知されたときに音声で知らせるプログラム<br>
+https://qiita.com/asmg07/items/0b1361cff76fc93962a1<br>
+・物体が検知されたときにソケット通信をするプログラム<br>
+https://qiita.com/asmg07/items/7413b82117c629b73719<br>
+・物体が検知されたときに記録する為のプログラム<br>
+https://qiita.com/asmg07/items/b0ab83d930adbed79df2<br>
+・日本の停まれの標識を学習させたモデル<br>
+https://qiita.com/asmg07/items/8f450e1ae6e213890db9<br>
+・目次記事<br>
+・yolov5の可視化プログラム目次<br>
+https://qiita.com/asmg07/items/1f8a1b8214cf32e614fc<br>
