@@ -8,6 +8,9 @@
 2020.10- 盛研究室
 ## 行ってきたもの
 2018 学部1年（研究インターン）<br>
+<embed src="https://github.com/S-mishina/Personal-portfolio/blob/main/2018%E5%B9%B4%E5%BA%A6%E7%A0%94%E7%A9%B6%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.pdf" width="500" height="375" 
+ ></embed>
+<br>
 ・つくばチャレンジ2018参加（主任オペレーター）<br>
 ・帝京大学ロボット教育シンポジウム<br>
 ・帝京大学プログラミングコンテスト（奨励賞）<br>
