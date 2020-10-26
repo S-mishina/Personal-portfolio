@@ -50,8 +50,8 @@ https://github.com/S-mishina/Stop-sign-detection<br>
 https://qiita.com/asmg07/items/2191de36be48f9ba9654<br>
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
-・Yolov5を利用した表情検知（negative-or-positive）
-https://qiita.com/asmg07/items/2191de36be48f9ba9654
+・Yolov5を利用した表情検知（negative-or-positive）<br>
+https://qiita.com/asmg07/items/2191de36be48f9ba9654<br>
 ・停まれ標識検知　可視化部分の開発part5 物体を検知した時に検知したものを検知したものを表示する<br>
 https://qiita.com/asmg07/items/d76625881db30d5b79ea<br>
 ・物体が検知されたときに音声で知らせるプログラム(複数)<br>
