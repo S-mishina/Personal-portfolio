@@ -48,8 +48,12 @@ https://github.com/S-mishina/Personal-estimation<br>
 https://github.com/S-mishina/Stop-sign-detection<br>
 2020- 学部3年　Yoloを使った表情検知<br>
 https://qiita.com/asmg07/items/2191de36be48f9ba9654<br>
+2020- 学部3年　Yoloを使ったマスク検知プログラム<br>
+https://qiita.com/asmg07/items/4dc516d26b59b85e509a
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
+・Are you wearing a mask？プログラムの開発（Yolov5の利用）<br>
+https://qiita.com/asmg07/items/4dc516d26b59b85e509a<br>
 ・Yolov5を利用した表情検知（negative-or-positive）<br>
 https://qiita.com/asmg07/items/2191de36be48f9ba9654<br>
 ・停まれ標識検知　可視化部分の開発part5 物体を検知した時に検知したものを検知したものを表示する<br>
