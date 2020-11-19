@@ -49,7 +49,12 @@ https://github.com/S-mishina/Stop-sign-detection<br>
 2020- 学部3年　Yoloを使った表情検知<br>
 https://qiita.com/asmg07/items/2191de36be48f9ba9654<br>
 2020- 学部3年　Yoloを使ったマスク検知プログラム<br>
-https://qiita.com/asmg07/items/4dc516d26b59b85e509a
+https://qiita.com/asmg07/items/4dc516d26b59b85e509a<br>
+2020- 学部3年　マスク検知システムのプラットフォーム化<br>
+・webによる可視化（グラフによる出力）<br>
+https://github.com/S-mishina/yolov5web-visualization-platform<br>
+・音声の出力（音声の出力とデータベース化）<br>
+https://github.com/S-mishina/Are-you-wearing-a-maskAPI<br>
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
 ・Are you wearing a mask？プログラムの開発（Yolov5の利用）<br>
