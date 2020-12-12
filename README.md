@@ -5,7 +5,8 @@
 帝京大学理工学部情報3年 S-mishina
 ## プロフィール
 2018.04-2020.10 山根研究室<br>
-2020.10- 盛研究室
+2020.10- 盛研究室<br>
+2020.12- 株式会社EXIDEA長期インターンに参加
 ## 主な経歴
 2018 学部1年（研究インターン）<br>
 <br>
@@ -55,8 +56,18 @@ https://qiita.com/asmg07/items/4dc516d26b59b85e509a<br>
 https://github.com/S-mishina/yolov5web-visualization-platform<br>
 ・音声の出力（音声の出力とデータベース化）<br>
 https://github.com/S-mishina/Are-you-wearing-a-maskAPI<br>
+
+## サーバ運用(セキュリティ)系の活動
+2018-2020 研究室サーバ運用<br>
+2020- 個人サーバの運用開始<br>
+2020.10- ハニーポットの運用(SSH)<br>
+
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
+・さくらVPSでハニーポットcowrieを導入する.ubuntu18.04を利用<br>
+https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
+・さくらVPSを導入して最初にやること！(ubuntu18.04)<br>
+https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
 ・Are you wearing a mask？プログラムの開発（Yolov5の利用）<br>
 https://qiita.com/asmg07/items/4dc516d26b59b85e509a<br>
 ・Yolov5を利用した表情検知（negative-or-positive）<br>
