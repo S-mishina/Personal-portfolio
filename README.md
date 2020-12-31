@@ -29,6 +29,7 @@ https://ci.nii.ac.jp/naid/130007658591<br>
 ・研究室サーバ移行<br>
 2st International AIWolf competition（プロトコル部門予選参加(関連))<br>
 https://ci.nii.ac.jp/naid/130007856826<br>
+<br>
 2020 学部３年（学外の活動）<br>
 2020.12- 株式会社EXIDEA長期インターンに参加
 ## 資料
