@@ -63,7 +63,9 @@ https://github.com/S-mishina/Are-you-wearing-a-maskAPI<br>
 ## サーバ運用(セキュリティ)系の活動
 2018-2020 研究室サーバ運用<br>
 2020- 個人サーバの運用開始<br>
+https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
 2020.10- ハニーポットの運用(SSH)<br>
+https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
 2020.12- ハニーポットのレポートツールの開発<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program
 
