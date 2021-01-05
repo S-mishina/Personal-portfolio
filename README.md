@@ -70,7 +70,8 @@ https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 2021.01- apache mysql php をサーバへ導入<br>
 2021.01- WordPress運用<br>
-
+## 現在のサーバ構成図
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/9ff7bc39-1d53-40d2-abdf-a7218d39f4f8" id="DqJ3Oy8FQHMr"></iframe></div>
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
 ・さくらVPSでハニーポットcowrieを導入する.ubuntu18.04を利用<br>
