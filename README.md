@@ -45,9 +45,12 @@ https://github.com/S-mishina/Personal-portfolio/blob/main/%E3%83%95%E3%82%9A%E3%
 https://github.com/S-mishina/Personal-portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882019%E5%AE%8C%E6%88%90%E7%89%88%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.pdf<br>
 ## 活動からの派生
 ロボットの内部状況の可視化プログラム<br>
+
 2018- 学部1年 プログラムコンテスト提出（挨拶カメラ）<br>
 2019- 学部2年 帝京大学理工学部情報電子工学科授業　プログラミング演習2 <br>人個人の推定<br>
 https://github.com/S-mishina/Personal-estimation<br>
+
+## 機械学習系の活動
 2020- 学部3年　Yoloを使った可視化プログラム<br>
 https://github.com/S-mishina/Stop-sign-detection<br>
 2020- 学部3年　Yoloを使った表情検知<br>
