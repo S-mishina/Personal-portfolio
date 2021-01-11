@@ -70,7 +70,8 @@ https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 2021.01- apache mysql php をサーバへ導入<br>
 2021.01- WordPress運用<br>
-## 現在のサーバ構成図
+2021.01- ハニーポット可視化サービスの構築(WordPressへの可視化とラインbotへの通知,ローカルでの分析)<br>
+
 
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
