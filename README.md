@@ -71,10 +71,16 @@ https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 2021.01- apache mysql php をサーバへ導入<br>
 2021.01- WordPress運用<br>
 2021.01- ハニーポット可視化サービスの構築(WordPressへの可視化とラインbotへの通知,ローカルでの分析)<br>
-
+https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
+・ubuntuでmysqlを消そうと思ったら消えなかった話<br>
+https://qiita.com/asmg07/items/87a15681f54061962c3b<br>
+・ハニーポットのレポートを LINEで通知させてみた<br>
+https://qiita.com/asmg07/items/f0fb6bdbeed3ce94d947<br>
+・cowrie（ハニーポット）をpythonのpandasを使って分析してみた<br>
+https://qiita.com/asmg07/items/d41bdc44066e35f6ba4f<br>
 ・さくらVPSでハニーポットcowrieを導入する.ubuntu18.04を利用<br>
 https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
 ・さくらVPSを導入して最初にやること！(ubuntu18.04)<br>
