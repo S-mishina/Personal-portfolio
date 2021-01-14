@@ -71,9 +71,11 @@ https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
 https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
 2020.12- ハニーポットのレポートツールの開発<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
-2021.01- apache mysql php をサーバへ導入<br>
-2021.01- WordPress運用<br>
-2021.01- ハニーポット可視化サービスの構築(WordPressへの可視化とラインbotへの通知,ローカルでの分析)<br>
+2021.01- apache mysql php をサーバへ導入(さくらVPS)<br>
+2021.01- kibana導入（さくらVPS）<br>
+2021.01- WordPress運用（さくらVPS）<br>
+2021.01-さくらVPS上のデータをAWS(S3)上に送るプログラムの作成<br>
+2021.01- ハニーポット可視化サービスの構築(WordPressへの可視化とラインbotへの通知,ローカルでの分析　AWSとさくらVPS)<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 
 ## 記事の執筆（主なもの）
