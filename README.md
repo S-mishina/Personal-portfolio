@@ -75,9 +75,10 @@ https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 2021.01- kibana導入（さくらVPS）<br>
 2021.01- WordPress運用（さくらVPS）<br>
 2021.01-さくらVPS上のデータをAWS(S3)上に送るプログラムの作成<br>
-2021.01- ハニーポット可視化サービスの構築(WordPressへの可視化とラインbotへの通知,ローカルでの分析　AWSとさくらVPS)<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
-
+## iot家電の開発
+2021.01- 部屋の温度可視化システムの開発
+https://github.com/S-mishina/Temperature-visualization<br>
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
 ・ubuntuでmysqlを消そうと思ったら消えなかった話<br>
