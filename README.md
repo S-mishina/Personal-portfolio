@@ -51,13 +51,13 @@ https://github.com/S-mishina/Personal-portfolio/blob/main/%E3%83%97%E3%83%AD%E3%
 https://github.com/S-mishina/Personal-estimation<br>
 
 ## 機械学習系の活動
-2020- 学部3年　Yoloを使った可視化プログラム<br>
+2020-11 学部3年　Yoloを使った可視化プログラム<br>
 https://github.com/S-mishina/Stop-sign-detection<br>
-2020- 学部3年　Yoloを使った表情検知<br>
+2020-11 学部3年　Yoloを使った表情検知<br>
 https://qiita.com/asmg07/items/2191de36be48f9ba9654<br>
-2020- 学部3年　Yoloを使ったマスク検知プログラム<br>
+2020-11 学部3年　Yoloを使ったマスク検知プログラム<br>
 https://qiita.com/asmg07/items/4dc516d26b59b85e509a<br>
-2020- 学部3年　マスク検知システムのプラットフォーム化<br>
+2020-11 学部3年　マスク検知システムのプラットフォーム化<br>
 ・webによる可視化（グラフによる出力）<br>
 https://github.com/S-mishina/yolov5web-visualization-platform<br>
 ・音声の出力（音声の出力とデータベース化）<br>
@@ -67,7 +67,7 @@ https://github.com/S-mishina/Are-you-wearing-a-maskAPI<br>
 2018-2020 研究室サーバ運用<br>
 2020- 個人サーバの運用開始<br>
 https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
-2020.10- ハニーポットの運用(SSH)<br>
+2020.12- ハニーポットの運用(SSH)<br>
 https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
 2020.12- ハニーポットのレポートツールの開発<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
