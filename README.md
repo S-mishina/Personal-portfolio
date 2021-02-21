@@ -80,6 +80,9 @@ https://github.com/S-mishina/Analysis-logs-from-Sakura-VPS-with-AWS-S3<br>
 ## iot家電の開発
 2021.01- 部屋の温度可視化システムの開発<br>
 https://github.com/S-mishina/Temperature-visualization<br>
+## webアプリの開発
+2021.02- 給与管理をする為のシステム開発<br>
+https://github.com/S-mishina/Simple-hourly-wage-calculation-site<br>
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
 ・ubuntuでmysqlを消そうと思ったら消えなかった話<br>
