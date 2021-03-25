@@ -85,6 +85,13 @@ https://github.com/S-mishina/Temperature-visualization<br>
 ## webアプリの開発
 2021.02- 給与管理をする為のシステム開発<br>
 https://github.com/S-mishina/Simple-hourly-wage-calculation-site<br>
+## データ分析（自然言語処理,数値分析）
+2021.03- 第二百四回国会における菅内閣総理大臣施政方針演説を分析してみた.<br>
+qiita:<br>
+https://qiita.com/asmg07/items/e9e753cfd187cd2cb999<br>
+github<br>
+https://github.com/S-mishina/Political-analysis<br>
+
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
 ・ubuntuでmysqlを消そうと思ったら消えなかった話<br>
