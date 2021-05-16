@@ -83,7 +83,7 @@ https://github.com/S-mishina/server-monitoring/<br>
 2021.01- 部屋の温度可視化システムの開発<br>
 https://github.com/S-mishina/Temperature-visualization<br>
 ## webアプリの開発
-2021.02- 給与管理をする為のシステム開発<br>
+2021.02- 給与管理をする為のシステム開発（開発途中）<br>
 https://github.com/S-mishina/Simple-hourly-wage-calculation-site<br>
 ## データ分析（自然言語処理,数値分析）
 2021.03- 第二百四回国会における菅内閣総理大臣施政方針演説を分析してみた.<br>
