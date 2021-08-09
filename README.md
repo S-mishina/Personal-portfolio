@@ -69,10 +69,6 @@ https://github.com/S-mishina/Are-you-wearing-a-maskAPI<br>
 2018-2020 研究室サーバ運用<br>
 2020- 個人サーバの運用開始<br>
 https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
-2020.12- ハニーポットの運用(SSH)<br>
-https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
-2020.12- ハニーポットのレポートツールの開発<br>
-https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 2021.01- apache mysql php をサーバへ導入(さくらVPS)<br>
 2021.01- kibana導入（さくらVPS）<br>
 2021.01- WordPress運用（さくらVPS）<br>
@@ -80,18 +76,28 @@ https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 https://github.com/S-mishina/Analysis-logs-from-Sakura-VPS-with-AWS-S3<br>
 2021.02- サーバをスマホからモニタニングする為のシステム開発中<br>
 https://github.com/S-mishina/server-monitoring/<br>
+
 ## iot家電の開発
 2021.01- 部屋の温度可視化システムの開発<br>
 https://github.com/S-mishina/Temperature-visualization<br>
-## webアプリの開発
-2021.02- 給与管理をする為のシステム開発（開発途中）<br>
-https://github.com/S-mishina/Simple-hourly-wage-calculation-site<br>
+
 ## データ分析（自然言語処理,数値分析）
 2021.03- 第二百四回国会における菅内閣総理大臣施政方針演説を分析してみた.<br>
 qiita:<br>
 https://qiita.com/asmg07/items/e9e753cfd187cd2cb999<br>
 github<br>
 https://github.com/S-mishina/Political-analysis<br>
+
+## ハニーポット関連
+
+2020.12- ハニーポットの運用(SSH)<br>
+https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
+2020.12- ハニーポットのレポートツールの開発<br>
+https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
+2021.08- WoWHoneypot導入をAnsible化<br>
+https://github.com/S-mishina/WoWHoneypot_Ansible<br>
+
+
 
 ## 記事の執筆（主なもの）
 Qiitaページ:https://qiita.com/asmg07<br>
