@@ -1,6 +1,9 @@
 # Personal-portfolio
 ## はじめに
 このプロジェクトは今まで自分で作ってきたものを載せる部分で特にコード等の記述はありません.
+### ポートフォリオとしてよく公開するもの（まとまっている）
+https://github.com/S-mishina/Mask_detection_portfolio<br>
+
 ## 自己紹介
 帝京大学理工学部情報4年 S-mishina<br>
 Twitter:https://twitter.com/asmg071
@@ -34,6 +37,7 @@ https://ci.nii.ac.jp/naid/130007856826<br>
 2020 学部３年（学外の活動）<br>
 <br>
 2020.12- 株式会社EXIDEA長期インターンに参加
+
 ## 資料
 ・研究インターンのポスター<br>
 2018年度<br>
