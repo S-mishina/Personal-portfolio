@@ -88,6 +88,10 @@ https://qiita.com/asmg07/items/e9e753cfd187cd2cb999<br>
 github<br>
 https://github.com/S-mishina/Political-analysis<br>
 
+2021.08- 栃木県コロナ発生状況可視化レポート自動化を構築<br>
+github:<br>
+https://github.com/S-mishina/corona-bunseki<br>
+
 ## ハニーポット関連
 
 2020.12- ハニーポットの運用(SSH)<br>
