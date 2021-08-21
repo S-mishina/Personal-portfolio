@@ -101,6 +101,23 @@ https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 2021.08- WoWHoneypot導入をAnsible化<br>
 https://github.com/S-mishina/WoWHoneypot_Ansible<br>
 
+## 業務効率化
+
+2021.08- chatworkのroomからURLを抽出するプログラムの構築<br>
+github:<br>
+https://github.com/S-mishina/IaC-extension-program<br>
+
+## BI関連
+2021.06- 個人開発用macの性能監視をMetabaseでしてみた<br>
+qiita:<br>
+https://qiita.com/asmg07/items/0de8e0873fddb2349113<br>
+
+## 暗号関連
+2021.07- 共通鍵暗号方式によるソケット通信の暗号化プログラム<br>
+github:<br>
+https://github.com/S-mishina/Encrypted_socket_communication<br>
+
+
 
 
 ## 記事の執筆（主なもの）
