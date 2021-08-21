@@ -74,8 +74,6 @@ https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
 2021.01- WordPress運用（さくらVPS）<br>
 2021.01-さくらVPS上のデータをAWS(S3)上に送るプログラムの作成<br>
 https://github.com/S-mishina/Analysis-logs-from-Sakura-VPS-with-AWS-S3<br>
-2021.02- サーバをスマホからモニタニングする為のシステム開発中<br>
-https://github.com/S-mishina/server-monitoring/<br>
 
 ## iot家電の開発
 2021.01- 部屋の温度可視化システムの開発<br>
@@ -107,8 +105,11 @@ https://github.com/S-mishina/WoWHoneypot_Ansible<br>
 github:<br>
 https://github.com/S-mishina/IaC-extension-program<br>
 
-## BI関連
-2021.06- 個人開発用macの性能監視をMetabaseでしてみた<br>
+## BI関連（監視）
+2021.02- サーバをスマホからモニタニングする為のシステム開発中<br>
+https://github.com/S-mishina/server-monitoring/<br>
+
+2021.06- 個人開発用macの性能監視をMetabaseでしてみた（上記項目を参考に作成）<br>
 qiita:<br>
 https://qiita.com/asmg07/items/0de8e0873fddb2349113<br>
 
