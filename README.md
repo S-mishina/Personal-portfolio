@@ -93,6 +93,8 @@ https://github.com/S-mishina/Political-analysis<br>
 2021.08- 栃木県コロナ発生状況可視化レポート自動化を構築<br>
 github:<br>
 https://github.com/S-mishina/corona-bunseki<br>
+qiita:<br>
+https://qiita.com/asmg07/items/76545665214c658675a1<br>
 
 ## ハニーポット関連
 
