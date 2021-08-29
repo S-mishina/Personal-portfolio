@@ -4,6 +4,8 @@
 ### まとめてあるプログラム
 #### Yolo-v5を使ったマスク検出システム(エッジAI)
 https://github.com/S-mishina/Mask_detection_portfolio<br>
+#### WoWHoneypot-Analysis-platform-portfolio
+https://github.com/S-mishina/WoWHoneypot-Analysis-platform-portfolio<br>
 
 
 ## 自己紹介
