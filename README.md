@@ -1,7 +1,7 @@
 # Personal-portfolio
 ## はじめに
 このプロジェクトは今まで自分で作ってきたものを載せる部分で特にコード等の記述はありません.
-### ポートフォリオとしてよく公開するもの（まとまっている）
+### まとめてあるプログラム
 #### Yolo-v5を使ったマスク検出システム(エッジAI)
 https://github.com/S-mishina/Mask_detection_portfolio<br>
 
