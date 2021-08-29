@@ -104,6 +104,8 @@ https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
 https://github.com/S-mishina/ssh-honeypot-analysis-program<br>
 2021.08- WoWHoneypot導入をAnsible化<br>
 https://github.com/S-mishina/WoWHoneypot_Ansible<br>
+2021.08- WoWHoneypot分析基盤<br>
+https://github.com/S-mishina/corona-bunseki<br>
 
 ## 業務効率化
 
