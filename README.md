@@ -134,6 +134,11 @@ https://github.com/S-mishina/Encrypted_socket_communication<br>
 
 
 ## 記事の執筆（主なもの）
+・Noteページ:https://note.com/asmg07
+・学生エンジニアという生き方<br>
+https://note.com/asmg07/n/n54cc3668bc8f<br>
+・学生プログラム初心者は流行りでプログラム言語を選ぶな！<br>
+https://note.com/asmg07/n/n54cc3668bc8f<br>
 Qiitaページ:https://qiita.com/asmg07<br>
 ・ubuntuでmysqlを消そうと思ったら消えなかった話<br>
 https://qiita.com/asmg07/items/87a15681f54061962c3b<br>
