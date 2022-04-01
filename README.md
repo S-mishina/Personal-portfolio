@@ -9,12 +9,13 @@ https://github.com/S-mishina/WoWHoneypot-Analysis-platform-portfolio<br>
 
 
 ## 自己紹介
-帝京大学理工学部情報4年 S-mishina<br>
+S-mishina<br>
 Twitter:https://twitter.com/asmg071
 ## プロフィール
 2018.04-2020.10 山根研究室<br>
-2020.10- 盛研究室<br>
-2020.12- 株式会社EXIDEA データサイエンティスト
+2020.10-2022.02 盛研究室<br>
+2020.12-2022.03 株式会社EXIDEA データサイエンティスト<br>
+2022.04- 株式会社ZOZO SRE
 ## 主な経歴
 2018 学部1年（研究インターン）<br>
 <br>
