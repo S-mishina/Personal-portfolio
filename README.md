@@ -14,8 +14,9 @@ Twitter:https://twitter.com/asmg071
 ## プロフィール
 2018.04-2020.10 山根研究室<br>
 2020.10-2022.02 盛研究室<br>
-2020.12-2022.03 株式会社EXIDEA データサイエンティスト<br>
-2022.04- 株式会社ZOZO SRE
+2020.12-2022.03 株式会社EXIDEA data scientist<br>
+2022.04- 株式会社ZOZO ec platform Service sre
+
 ## 主な経歴
 2018 学部1年（研究インターン）<br>
 <br>
@@ -61,6 +62,7 @@ https://github.com/S-mishina/Personal-portfolio/blob/main/2020%E7%A0%94%E7%A9%B6
 https://github.com/S-mishina/Personal-portfolio/blob/main/%E3%83%95%E3%82%9A%E3%83%AD%E3%82%AF%E3%82%99%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%AF%E3%82%99%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882018.pdf<br>
 2019年度<br>
 https://github.com/S-mishina/Personal-portfolio/blob/main/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%882019%E5%AE%8C%E6%88%90%E7%89%88%E3%83%9D%E3%82%B9%E3%82%BF%E3%83%BC.pdf<br>
+
 ## 活動からの派生
 ロボットの内部状況の可視化プログラム<br>
 
@@ -81,7 +83,11 @@ https://github.com/S-mishina/yolov5web-visualization-platform<br>
 ・音声の出力（音声の出力とデータベース化）<br>
 https://github.com/S-mishina/Are-you-wearing-a-maskAPI<br>
 
-## サーバ運用(セキュリティ)系の活動
+## セキュリティ系
+2022.06 - trivy-actionを使ってDocker imageの脆弱性診断をやってみた <br>
+https://qiita.com/asmg07/items/4fd623c4804d5f68f36e <br>
+
+## サーバ運用の活動
 2018-2020 研究室サーバ運用<br>
 2020- 個人サーバの運用開始<br>
 https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
