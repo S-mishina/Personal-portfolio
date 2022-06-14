@@ -11,20 +11,20 @@ https://github.com/S-mishina/WoWHoneypot-Analysis-platform-portfolio<br>
 ## 自己紹介
 S-mishina<br>
 Twitter:https://twitter.com/asmg071
-## プロフィール（全体経歴a）
+## プロフィール（全体経歴）
 2018.04-2020.10 山根研究室<br>
 2020.10-2022.02 盛研究室<br>
 2020.12-2022.03 株式会社EXIDEA data scientist<br>
 2022.04- 株式会社ZOZO ec platform service sre
 
 ## 主な経歴（学部）
-2018 学部1年（研究インターン）<br>
+### 2018 学部1年（研究インターン）<br>
 <br>
 ・つくばチャレンジ2018参加（主任オペレーター）<br>
 ・帝京大学ロボット教育シンポジウム<br>
 ・帝京大学プログラミングコンテスト（奨励賞）<br>
 <br>
-2019 学部2年（研究インターン）<br>
+### 2019 学部2年（研究インターン）<br>
 <br>
 ・つくばチャレンジ2019参加<br>
 ・1st International AIWolf competition（プロトコル部門予選参加）<br>
@@ -33,22 +33,22 @@ Twitter:https://twitter.com/asmg071
 ・JSAI2019参加<br>
 https://ci.nii.ac.jp/naid/130007658591<br>
 <br>
-2020 学部3年（研究インターン）<br>
+### 2020 学部3年（研究インターン）<br>
 <br>
 ・2st International AIWolf competition（プロトコル部門予選参加）<br>
 ・研究室サーバ移行<br>
 2st International AIWolf competition（プロトコル部門予選参加(関連))<br>
 https://ci.nii.ac.jp/naid/130007856826<br>
 <br>
-2020 学部３年（学外の活動）<br>
+### 2020 学部３年（学外の活動）<br>
 <br>
 2020.12- 株式会社EXIDEA長期インターンに参加<br>
 <br>
-2021 学部４年（卒業研究）<br>
+### 2021 学部４年（卒業研究）<br>
 <br>
 2021.09 学生企業研究発表大会 奨励賞<br>
 <br>
-2021 学部４年（学外の活動）<br>
+### 2021 学部４年（学外の活動）<br>
 <br>
 2021.12 サポータズ主催:ハッカソンvol12 最優秀賞<br>
 ## 資料
