@@ -86,10 +86,6 @@ https://github.com/S-mishina/yolov5web-visualization-platform<br>
 ・音声の出力（音声の出力とデータベース化）<br>
 https://github.com/S-mishina/Are-you-wearing-a-maskAPI<br>
 
-## セキュリティ系
-2022.06 - trivy-actionを使ってDocker imageの脆弱性診断をやってみた <br>
-https://qiita.com/asmg07/items/4fd623c4804d5f68f36e <br>
-
 ## サーバ運用の活動
 2018-2020 研究室サーバ運用<br>
 2020- 個人サーバの運用開始<br>
@@ -157,32 +153,4 @@ https://note.com/asmg07/n/n54cc3668bc8f<br>
 ・学生プログラム初心者は流行りでプログラム言語を選ぶな！<br>
 https://note.com/asmg07/n/n54cc3668bc8f<br>
 Qiitaページ:https://qiita.com/asmg07<br>
-・ubuntuでmysqlを消そうと思ったら消えなかった話<br>
-https://qiita.com/asmg07/items/87a15681f54061962c3b<br>
-・ハニーポットのレポートを LINEで通知させてみた<br>
-https://qiita.com/asmg07/items/f0fb6bdbeed3ce94d947<br>
-・cowrie（ハニーポット）をpythonのpandasを使って分析してみた<br>
-https://qiita.com/asmg07/items/d41bdc44066e35f6ba4f<br>
-・さくらVPSでハニーポットcowrieを導入する.ubuntu18.04を利用<br>
-https://qiita.com/asmg07/items/73808eee7c960707da2b<br>
-・さくらVPSを導入して最初にやること！(ubuntu18.04)<br>
-https://qiita.com/asmg07/items/64a719b3e79c71165c49 <br>
-・Are you wearing a mask？プログラムの開発（Yolov5の利用）<br>
-https://qiita.com/asmg07/items/4dc516d26b59b85e509a<br>
-・Yolov5を利用した表情検知（negative-or-positive）<br>
-https://qiita.com/asmg07/items/2191de36be48f9ba9654<br>
-・停まれ標識検知　可視化部分の開発part5 物体を検知した時に検知したものを検知したものを表示する<br>
-https://qiita.com/asmg07/items/d76625881db30d5b79ea<br>
-・物体が検知されたときに音声で知らせるプログラム(複数)<br>
-https://qiita.com/asmg07/items/a45c663e44c6d45f6dc6<br>
-・物体が検知されたときに音声で知らせるプログラム<br>
-https://qiita.com/asmg07/items/0b1361cff76fc93962a1<br>
-・物体が検知されたときにソケット通信をするプログラム<br>
-https://qiita.com/asmg07/items/7413b82117c629b73719<br>
-・物体が検知されたときに記録する為のプログラム<br>
-https://qiita.com/asmg07/items/b0ab83d930adbed79df2<br>
-・日本の停まれの標識を学習させたモデル<br>
-https://qiita.com/asmg07/items/8f450e1ae6e213890db9<br>
-・目次記事<br>
-・yolov5の可視化プログラム目次<br>
-https://qiita.com/asmg07/items/1f8a1b8214cf32e614fc<br>
+
