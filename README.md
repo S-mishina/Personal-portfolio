@@ -144,9 +144,7 @@ github:<br>
 https://github.com/S-mishina/Encrypted_socket_communication<br>
 
 
-
-
 ## 記事の執筆（主なもの）
 ・Noteページ:https://note.com/asmg07<br>
-Qiitaページ:https://qiita.com/asmg07<br>
+・Qiitaページ:https://qiita.com/asmg07<br>
 
